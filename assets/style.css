@@ -1,0 +1,9 @@
+* {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#video p {
+    margin-top: 4px;
+    font-size: larger;
+    font-weight: 700;
+}
