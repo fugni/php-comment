@@ -2,8 +2,9 @@
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-#video p {
-    margin-top: 4px;
-    font-size: larger;
-    font-weight: 700;
+.comment {
+    border: 2px solid #000000;
+    width: 200px;
+    margin: 10px;
+    padding-left: 5px;
 }
